@@ -1,4 +1,4 @@
-git clone -b demo https://github.com/CPSC430AlumniDB/AlumniDB.git
+git clone -b master https://github.com/CPSC430AlumniDB/AlumniDB.git
 cd AlumniDB
 cd alumni-search
 npm install
